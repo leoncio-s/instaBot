@@ -1,1 +1,1 @@
-Rápido estudo e aprendizado de uso da ferramenta Selenium utilizando a linguagem de programação python.
+Bot para comentário em diversas postagens no instagram ou diversos comentários em uma mesma postagens.
